@@ -1,4 +1,4 @@
-# nlp-05-web-documents
+# nlp-05-web-documents-custom
 
 [![Python 3.14](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](pyproject.toml)
 [![CI](https://github.com/denisecase/nlp-05-web-documents/actions/workflows/ci-python-zensical.yml/badge.svg)](https://github.com/denisecase/nlp-05-web-documents/actions/workflows/ci-python-zensical.yml)
@@ -13,7 +13,7 @@
 
 ## Project Overview
 
-Author: Denise Case
+Author: Abdellah Boudlal
 
 Date: 2026 October
 
@@ -36,8 +36,8 @@ The project is configured in
 
 ## Data
 
-The example retrieves an academic paper's abstract page
-from [arXiv](https://arxiv.org/abs/2602.20021).
+For my custom project, I plan to retrieve the abstract page of an
+academic paper about large language models from [arXiv](https://arxiv.org/).
 
 The source document contains information such as:
 
