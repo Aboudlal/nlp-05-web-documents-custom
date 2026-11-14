@@ -1,6 +1,7 @@
 """src/nlp/stage01_extract.py - Stage 01: Extract.
 
-NO EDITS REQUIRED IN THIS FILE (if paths have not changed.)
+# Customized by Abdellah Boudlal
+# Date: 2026-11
 
 Source: HTML page at configured URL
 Sink:   Raw HTML file at RAW_HTML_PATH

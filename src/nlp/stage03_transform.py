@@ -1,6 +1,7 @@
 """src/nlp/stage03_transform.py.
 
-(EDIT YOUR VERSION OF THIS FILE)
+# Customized by Abdellah Boudlal
+# Date: 2026-11
 
 Source: validated BeautifulSoup object
 Sink: Pandas DataFrame

@@ -1,6 +1,7 @@
 """src/nlp/stage04_load.py.
 
-NO EDITS REQUIRED IN THIS FILE (if paths have not changed.)
+# Customized by Abdellah Boudlal
+# Date: 2026-11
 
 Source:  DataFrame (in this case, a Pandas DataFrame, change if using polars)
 

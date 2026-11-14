@@ -1,6 +1,7 @@
 """src/nlp/config.py - Module Configuration.
 
-(MODIFY YOUR VERSION OF THIS FILE)
+# Customized by Abdellah Boudlal
+# Date: 2026-11
 
 Stores configuration values for the web document EVTL pipeline.
 Source: arXiv abstract page for "Agents of Chaos" (2602.20021)
